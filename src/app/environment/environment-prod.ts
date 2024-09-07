@@ -1,6 +1,6 @@
 
 export const environment = {
     production: true,
-    apiUrl: 'https://todo-server-3.onrender.com/api/tasks'
+    apiUrl: 'https://todo-app-0-0-1-4.onrender.com'
   };
   
